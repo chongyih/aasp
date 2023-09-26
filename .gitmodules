@@ -1,0 +1,12 @@
+[submodule "aasp-core"]
+	path = aasp-core
+	url = https://github.com/chongyih/aasp-core
+[submodule "aasp-compiler"]
+	path = aasp-compiler
+	url = https://github.com/chongyih/aasp-compiler
+[submodule "aasp-judge0"]
+	path = aasp-judge0
+	url = https://github.com/chongyih/aasp-judge0
+[submodule "aasp-vcd2wavedrom"]
+	path = aasp-vcd2wavedrom
+	url = https://github.com/chongyih/aasp-vcd2wavedrom
